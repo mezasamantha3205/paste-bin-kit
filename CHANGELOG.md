@@ -7,3 +7,7 @@
 ## 0.1.0
 
 - Initial release.
+
+## Contributing
+
+Pull requests are welcome.
