@@ -24,8 +24,9 @@ Small, dependency-free reference implementation for everyday use. MIT licensed.
 ## Usage
 
 ```bash
-./run.sh --verbose
+chmod +x scripts/setup.sh && ./scripts/setup.sh
 ```
+
 
 ## Notes
 
