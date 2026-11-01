@@ -11,3 +11,7 @@
 ## Contributing
 
 Pull requests are welcome.
+
+## Changelog
+
+- misc fixes and tweaks
