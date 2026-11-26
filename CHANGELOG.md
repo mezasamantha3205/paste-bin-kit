@@ -28,3 +28,7 @@ Small changes land here over time.
 
 - [ ] add tests
 - [ ] improve docs
+
+## Contributing
+
+Pull requests are welcome.
