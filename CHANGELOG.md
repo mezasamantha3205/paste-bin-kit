@@ -32,3 +32,7 @@ Small changes land here over time.
 ## Contributing
 
 Pull requests are welcome.
+
+## Contributing
+
+Pull requests are welcome.
